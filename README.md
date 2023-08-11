@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @jmg13191
-- 👀 I’m interested in: HTML compatable files.
+- 👀 I’m interested in: Using HTML.
 - 🌱 I’m currently learning: How to create an HTML search engine.
-- 📫 Reach me by E-Mail: jmg13191@proton.me
